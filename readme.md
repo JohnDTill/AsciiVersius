@@ -17,4 +17,4 @@ There are arm variations with different instruments. We started with [grasper](.
 ## Font
 The image requires a monospace font which supports a few unicode symbols used in the design (no, it isn't technically ASCII art). We used [Victor Mono](https://rubjo.github.io/victor-mono/) since it is licensed under the permissive Open Font License, and looks good!
 
-![Picture of a progress pride mug](./previews/mug_preview_pride.png "This took some learning and perseverence :)")
+![Picture of a progress pride mug](./previews/mug_preview_pride.png "Nice mugshot")
