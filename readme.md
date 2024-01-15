@@ -21,4 +21,4 @@ The image requires a monospace font which supports a few unicode symbols used in
 
 ### Line Spacing (why do the preview images look different?)
 
-The preview images are based on the earlier versions of the design which used 1.30 line spacing. The current design uses 1.20 spacing.
+The preview images are based on the [earlier versions](./png/originals/) of the design which used 1.30 line spacing. The current design uses 1.20 spacing.
