@@ -6,10 +6,10 @@ This repo contains ASCII art of the Versius robotic system for minimally invasiv
 
 The ASCII art was used to produce a batch of mugs via VistaPrint. [ascii_versius_mug.png](./png/ascii_versius_mug.png) is the starting point for the digital design supplied to the printers. We changed the image colour in the VistaPrint editor to match the mug handle/inner colours as closely as possible.  For the non-black monochrome mugs we used:
 
-- `#FF7A00`
-- `#125E94`
-- `#F63A2E`
-- `#F87B72`
+- Orange `#FF7A00`
+- Blue `#125E94`
+- Red `#F63A2E`
+- Pink `#F87B72`
 
 There will always be some difference once the mugs are printed, for example our orange wasn't quite as bright as the mug interior.
 We also created colour variations, such as [ascii_versius_mug_pride_progress.png](./png/ascii_versius_mug_pride_progress).
