@@ -20,7 +20,7 @@ One of the learnings is that printing on black mugs uses a different printing pr
 
 ## Instruments
 
-There are arm variations with different instruments. We started with [grasper](./txt/ascii_versius_mug.txt), then added [hook](./txt/hook.txt). We haven't included SVGs and PNGs for all the instrument variations in all the colour variations (e.g. no rainbow hook) but the SVGs can be edited with the contents of the text files.
+There are three arm variations with different instruments. We started with [grasper](./txt/ascii_versius_mug.txt), then added [hook](./txt/hook.txt) and [dissector](./txt/dissector.txt). We haven't included SVGs and PNGs for all the instrument variations in all the colour variations (e.g. no rainbow dissector) but the SVGs can be edited with the contents of the text files.
 
 ## Font
 The image requires a monospace font which supports a few unicode symbols used in the design (no, it isn't technically ASCII art). We used [Victor Mono](https://rubjo.github.io/victor-mono/) since it is licensed under the permissive Open Font License, and looks good!
